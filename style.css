@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    color: white;
+}
+
+.third {
+    text-align: center;
+    padding: 50px 20px;
+}
+
+.imgR {
+    border: 5px solid white;
+    /* border-radius: 8px; */
+    background-color: white;
+    width: 100%;
+    height: auto;
+}
+
+.btn-custom {
+    border-radius: 50px;
+    width: 100%;
+    max-width: 180px;
+    height: 50px;
+    font-weight: bold;
+}
+
+.btn-custom:hover {
+    background-color: red;
+    color: white;
+}
